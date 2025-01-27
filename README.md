@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zannisb
-- 👀 I’m a student in Hanmin High School.
+- 👀 I’m a student in Seoul National University.
 - 🌱 I’m currently studying basic knowledge about computer programming.
 - 💞️ I'm just trying to experience something new and develop myself.
 - 📫 You can reach me by sabin04.im@gmail.com
